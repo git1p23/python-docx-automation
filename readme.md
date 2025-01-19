@@ -34,6 +34,3 @@ pip install python-docx
 
 ## 5. 참고 자료
 - [행정안전부 보도자료(모바일 주민등록증 시범발급)](https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=114628)
-- [청와대비서실 보고서 작성법](https://www.maip.kr/bbs/board.php?bo_table=b51&wr_id=1026&sca=%EB%B3%B4%EA%B3%A0%EC%84%9C%EC%9E%91%EC%84%B1%EB%B2%95&page=6)
-
-
