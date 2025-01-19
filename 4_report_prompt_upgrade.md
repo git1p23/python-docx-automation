@@ -129,7 +129,7 @@ def parse_and_format_docx(input_text, output_path):
             "font_name": "바탕",
             "font_size": 14,
             "char_indent": 1.5,
-            "hanging_indent": 0.75,
+            "hanging_indent": 1,
             "space_before": 6
         },
         "default": {
