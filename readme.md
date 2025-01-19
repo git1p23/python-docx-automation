@@ -13,7 +13,7 @@
 
 ## 3. 사전 준비
 1. 가상환경 설정
-
+- [파이썬 가상환경 설정](https://github.com/dabidstudio/dabidstudio_guides/blob/main/python-set-venv.md)
 2. 패키지 설치
 
 ```bash
