@@ -5,9 +5,9 @@
 - 파이썬으로 워드 문서를 생성하고 다양한 서식을 맞춤형으로 설정하는 방법 소개
 
 ## 2. 목차
-1. 워드문서 자동화 패키지 python-docx 기본 활용법 소개 (2_python_docx_basics.py)
-2.챗GPT로 보고서 내용 만들기 (1_report_prompt.md)
-3.초안을 워드문서로 바꾸기 (3_make_docx.py)
+1. 워드문서 자동화 패키지 python-docx 기본 활용법 소개 (2_python_docx_basics.py)   
+2.챗GPT로 보고서 내용 만들기 (1_report_prompt.md)   
+3.초안을 워드문서로 바꾸기 (3_make_docx.py)   
 4.챗GPT에서 바로 활용하기 (4_report_prompt_upgrade.md)
 
 
